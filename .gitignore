@@ -1,1 +1,3 @@
 config
+carpeta_sin_contenido/*
+!carpeta_sin_contenido/.gitkeep
